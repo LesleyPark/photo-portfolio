@@ -28,6 +28,7 @@
     "path": "^0.12.7",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-images": "^0.5.19",
     "style-loader": "^0.23.0"
   }
 }
