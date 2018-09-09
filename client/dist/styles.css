@@ -1,23 +1,22 @@
 body {
   font-family: 'Cabin', sans-serif;
   text-align: center;
+  font-size: smaller;
+  color: #484848;  
 }
 
-/* .title {
-  background-color: rgba(0,0,0,0.25);
-  padding: 20px;
-  text-align: center;
-} */
-
 h1 {
-  font-weight: bold;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: 900;
+  color: black;
 }
 
 .italics {
+  font-family: 'Halant', serif;
   font-style: italic;
 }
 
 hr {
-  color: #484848;
+  color: black;
   height: 5px;
 }
